@@ -2,7 +2,7 @@
 
 A reference implementation for generating **professional, brand-compliant PowerPoint presentations** from any corporate template using an AI agent — with full slide transitions and element animations, engineered from scratch without any paid library.
 
-> **Companion blog post:** [The Weekend I Declared War on PowerPoint XML](https://hai2.ai) — the full story of why this exists and what it took to build it.
+> **Companion blog post:** [The Weekend I Declared War on PowerPoint XML]([https://hai2.ai](https://medium.com/@sachinsabariram/the-weekend-i-declared-war-on-powerpoint-xml-and-what-was-built-when-the-dust-settled-e99cb6515a1f)) — the full story of why this exists and what it took to build it.
 
 ---
 
